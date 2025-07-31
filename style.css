@@ -1,0 +1,619 @@
+.startseite {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.startseite .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1680px;
+  height: 7918px;
+  position: relative;
+}
+
+.startseite .overlap-group {
+  position: absolute;
+  width: 1825px;
+  height: 7917px;
+  top: 157px;
+  left: -42px;
+}
+
+.startseite .body-b {
+  height: 948px;
+  top: 863px;
+  position: absolute;
+  width: 1680px;
+  left: 42px;
+  background-color: #fffaff;
+}
+
+.startseite .text-wrapper {
+  position: absolute;
+  width: 711px;
+  top: 186px;
+  left: 58px;
+  font-family: var(--m3-headline-large-emphasized-font-family);
+  font-weight: var(--m3-headline-large-emphasized-font-weight);
+  color: #000000cc;
+  font-size: var(--m3-headline-large-emphasized-font-size);
+  letter-spacing: var(--m3-headline-large-emphasized-letter-spacing);
+  line-height: var(--m3-headline-large-emphasized-line-height);
+  font-style: var(--m3-headline-large-emphasized-font-style);
+}
+
+.startseite .body-e {
+  height: 6355px;
+  top: 1562px;
+  position: absolute;
+  width: 1680px;
+  left: 42px;
+  background-color: #fffaff;
+}
+
+.startseite .rectangle {
+  position: absolute;
+  width: 514px;
+  height: 692px;
+  top: 25px;
+  left: 204px;
+}
+
+.startseite .img {
+  position: absolute;
+  width: 514px;
+  height: 692px;
+  top: 452px;
+  left: 934px;
+}
+
+.startseite .p {
+  position: absolute;
+  width: 686px;
+  top: 751px;
+  left: 204px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-2 {
+  position: absolute;
+  width: 490px;
+  top: 797px;
+  left: 204px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .text-wrapper-3 {
+  top: 1183px;
+  left: 934px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-4 {
+  top: 1229px;
+  left: 934px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .rectangle-2 {
+  position: absolute;
+  width: 514px;
+  height: 692px;
+  top: 1679px;
+  left: 934px;
+}
+
+.startseite .text-wrapper-5 {
+  top: 2410px;
+  left: 934px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-6 {
+  top: 2456px;
+  left: 934px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .rectangle-3 {
+  position: absolute;
+  width: 514px;
+  height: 692px;
+  top: 1281px;
+  left: 204px;
+}
+
+.startseite .text-wrapper-7 {
+  top: 2012px;
+  left: 204px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-8 {
+  top: 2058px;
+  left: 204px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .line {
+  top: 5456px;
+  position: absolute;
+  width: 1304px;
+  height: 4px;
+  left: 214px;
+}
+
+.startseite .text-wrapper-9 {
+  position: absolute;
+  width: 125px;
+  top: 5404px;
+  left: 1393px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-10 {
+  top: 5474px;
+  left: 214px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-11 {
+  top: 5520px;
+  left: 214px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .polygon {
+  top: 5524px;
+  left: 1430px;
+  position: absolute;
+  width: 52px;
+  height: 40px;
+}
+
+.startseite .line-2 {
+  top: 4881px;
+  position: absolute;
+  width: 1304px;
+  height: 4px;
+  left: 214px;
+}
+
+.startseite .text-wrapper-12 {
+  position: absolute;
+  width: 125px;
+  top: 4829px;
+  left: 1393px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-13 {
+  top: 4945px;
+  left: 214px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .polygon-2 {
+  top: 4948px;
+  left: 1430px;
+  transition: all 0.2s ease-in-out;
+  position: absolute;
+  width: 52px;
+  height: 40px;
+}
+
+.startseite .polygon-2:hover {
+  transform: translate(0, -5px);
+}
+
+.startseite .polygon-3 {
+  top: 5760px;
+  left: 1428px;
+  transition: all 0.2s ease-in-out;
+  position: absolute;
+  width: 52px;
+  height: 40px;
+}
+
+.startseite .polygon-3:hover {
+  transform: translate(0, -5px);
+}
+
+.startseite .polygon-4 {
+  top: 6014px;
+  left: 1430px;
+  position: absolute;
+  width: 52px;
+  height: 40px;
+}
+
+.startseite .polygon-5 {
+  top: 6652px;
+  left: 1426px;
+  position: absolute;
+  width: 52px;
+  height: 40px;
+}
+
+.startseite .polygon-6 {
+  top: 6888px;
+  left: 1431px;
+  position: absolute;
+  width: 52px;
+  height: 40px;
+}
+
+.startseite .polygon-7 {
+  top: 6402px;
+  left: 1428px;
+  position: absolute;
+  width: 52px;
+  height: 40px;
+}
+
+.startseite .line-3 {
+  top: 6346px;
+  position: absolute;
+  width: 1304px;
+  height: 4px;
+  left: 214px;
+}
+
+.startseite .text-wrapper-14 {
+  position: absolute;
+  width: 125px;
+  top: 6294px;
+  left: 1424px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-15 {
+  top: 6364px;
+  left: 214px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-16 {
+  top: 6410px;
+  left: 214px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .line-4 {
+  top: 6591px;
+  position: absolute;
+  width: 1304px;
+  height: 4px;
+  left: 214px;
+}
+
+.startseite .text-wrapper-17 {
+  top: 6609px;
+  left: 214px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-18 {
+  top: 6655px;
+  left: 214px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .line-5 {
+  top: 6836px;
+  position: absolute;
+  width: 1304px;
+  height: 4px;
+  left: 214px;
+}
+
+.startseite .text-wrapper-19 {
+  top: 6854px;
+  left: 214px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-20 {
+  top: 6900px;
+  left: 214px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .line-6 {
+  top: 5701px;
+  position: absolute;
+  width: 1304px;
+  height: 4px;
+  left: 214px;
+}
+
+.startseite .text-wrapper-21 {
+  top: 5719px;
+  left: 214px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-22 {
+  top: 5765px;
+  left: 214px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .line-7 {
+  top: 5946px;
+  position: absolute;
+  width: 1304px;
+  height: 4px;
+  left: 214px;
+}
+
+.startseite .text-wrapper-23 {
+  top: 5964px;
+  left: 214px;
+  position: absolute;
+  width: 686px;
+  font-family: var(--body-h4-font-family);
+  font-weight: var(--body-h4-font-weight);
+  color: #000000;
+  font-size: var(--body-h4-font-size);
+  letter-spacing: var(--body-h4-letter-spacing);
+  line-height: var(--body-h4-line-height);
+  white-space: nowrap;
+  font-style: var(--body-h4-font-style);
+}
+
+.startseite .text-wrapper-24 {
+  top: 6010px;
+  left: 214px;
+  position: absolute;
+  width: 490px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .rectangle-4 {
+  position: absolute;
+  width: 245px;
+  height: 314px;
+  top: 5109px;
+  left: 214px;
+}
+
+.startseite .text-wrapper-25 {
+  position: absolute;
+  width: 1506px;
+  top: 7717px;
+  left: 65px;
+  font-family: var(--body-p-font-family);
+  font-weight: var(--body-p-font-weight);
+  color: #000000cc;
+  font-size: var(--body-p-font-size);
+  letter-spacing: var(--body-p-letter-spacing);
+  line-height: var(--body-p-line-height);
+  font-style: var(--body-p-font-style);
+}
+
+.startseite .rectangle-5 {
+  position: absolute;
+  width: 1825px;
+  height: 879px;
+  top: 0;
+  left: 0;
+  background-color: #fffaff;
+}
+
+.startseite .rectangle-6 {
+  position: absolute;
+  width: 1244px;
+  height: 596px;
+  top: 153px;
+  left: 239px;
+}
+
+.startseite .rectangle-7 {
+  position: fixed;
+  width: 1680px;
+  height: 157px;
+  top: 0;
+  left: 0;
+  background-color: #fffaff;
+}
+
+.startseite .text-wrapper-26 {
+  position: fixed;
+  width: 750px;
+  top: 51px;
+  left: 48px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: -0.72px;
+  line-height: 72px;
+}
